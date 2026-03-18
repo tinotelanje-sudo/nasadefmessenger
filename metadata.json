@@ -1,0 +1,9 @@
+{
+  "name": "Remix: NASA DEF Super-Messenger",
+  "description": "The official communication and AI service platform for NASA DEF Sdn Bhd, integrating IoT monitoring and AI Service Agent (AISA).",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
